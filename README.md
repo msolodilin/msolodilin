@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi, my name is Mark! I'm starting my career as a Data Engineer / Data scientist!
 
-<!--
-**msolodilin/msolodilin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently going through an internship at Proper Data Management in Almaty, Kazakhstan
 
-Here are some ideas to get you started:
+### What I'm learning:
+- [x] Environments (Markdown, HackMD, GitHub, Terminal)
+- [ ] File types and structures
+- [ ] REST API
+- [ ] Python 3 for web scraping
+- [ ] Databases (Postgres & Mongo)
+- [ ] SQL queries (select, update, delete, truncate, drop)
+- [ ] SQL functions
+- [ ] SQL procedures (scripts)
+- [ ] SQL triggers
+- [ ] SQL indexes
+- [ ] Pentaho  
+- [ ] Informatica
+- [ ] Oracle DI
+- [ ] GitHub Flow & Apache Airflow
+- [ ] Power BI
+- [ ] EDW Architectures (premise)
+- [ ] EDW Architectures (cloud)
+- [ ] Apache Kafka for streaming data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
