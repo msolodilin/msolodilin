@@ -22,3 +22,4 @@ I am currently going through an internship at Proper Data Management in Almaty, 
 - [ ] EDW Architectures (cloud)
 - [ ] Apache Kafka for streaming data
 
+test for develop branch
